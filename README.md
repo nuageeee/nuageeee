@@ -1,7 +1,7 @@
 <h1 align="center">Hello there ! I'm nuage</h1>
 <h3 align="center">A young and passionate developer from french</h3>
 
-- 🔭 I’m currently working on my portfolio [nuage-portfolio](XX)
+- 🔭 I’m currently working on reset-cli [reset-cli](https://github.com/nuageeee/reset-cli-linux)
 
 - 📫 How to reach me **nuageeeee@proton.me**
 
