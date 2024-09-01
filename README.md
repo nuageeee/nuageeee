@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm Elnuage, a passionate young developer from France.</div>  
   
 
